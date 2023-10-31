@@ -1,5 +1,6 @@
 ## 系统简介
-* 采用前后端分离的模式，前端框架选型vue-element-admin，后端代码地址：   
+* 采用前后端分离的模式，前端框架选型vue-element-admin，后端代码地址：
+* https://github.com/heweijiqn/exam-backend
 * 后端采用Spring Boot、Spring Cloud & Alibaba、Mybatis-plus。
 * 注册中心、配置中心选型Nacos，权限认证使用OAuth2。
 
