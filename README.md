@@ -1,3 +1,6 @@
+# pull代码请先star~~~
+
+
 ## 系统简介
 * 采用前后端分离的模式，前端框架选型vue-element-admin，后端代码地址：
 * https://github.com/heweijiqn/exam-backend
